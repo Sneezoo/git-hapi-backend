@@ -1,2 +1,2 @@
 # git-hapi-backend
-git-http-backend in hapi.js
+JavaScript git-http-backend for hapi-server

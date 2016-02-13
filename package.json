@@ -1,0 +1,28 @@
+{
+  "name": "git-hapi-backend",
+  "version": "0.0.1",
+  "description": "git-http-backend plugin for hapi.js",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sneezoo/git-hapi-backend.git"
+  },
+  "keywords": [
+    "git-http-backend",
+    "Git",
+    "HTTP",
+    "hapi"
+  ],
+  "dependencies": {
+    "boom": "*"
+  },
+  "author": "Sneezoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sneezoo/git-hapi-backend/issues"
+  },
+  "homepage": "https://github.com/Sneezoo/git-hapi-backend#readme"
+}
